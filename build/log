@@ -1,0 +1,231 @@
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 22:55:05.629 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 22:55:05.715 (   0.086s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 22:58:14.098 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 22:58:14.176 (   0.078s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 22:59:00.864 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 22:59:01.010 (   0.146s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 22:59:20.627 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 22:59:20.703 (   0.076s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 23:02:34.660 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 23:02:34.738 (   0.078s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 23:02:57.570 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 23:02:57.640 (   0.070s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 23:03:27.817 (   0.001s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 23:03:27.902 (   0.086s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 23:07:37.816 (   0.001s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 23:07:37.900 (   0.084s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-28 23:07:57.030 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-28 23:07:57.097 (   0.068s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:16:24.958 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:16:24.961 (   0.003s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:16:44.023 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:16:44.026 (   0.003s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:21:23.377 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:21:23.383 (   0.006s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:21:32.471 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:21:32.475 (   0.004s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:24:30.945 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:24:30.950 (   0.006s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:24:42.451 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:24:42.453 (   0.002s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:29:37.563 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:29:37.566 (   0.003s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:29:48.117 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:29:48.122 (   0.006s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:51:43.625 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:51:43.627 (   0.002s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:53:16.145 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:53:16.151 (   0.006s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:54:55.345 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:54:55.347 (   0.002s) [main thread     ]             loguru.cpp:472   INFO| atexit
+
+
+
+
+
+arguments: ./judge.out
+Current dir: /home/lemonhx/桌面/LimonadeJudgerNT/build
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2019-07-29 08:57:48.344 (   0.000s) [main thread     ]             loguru.cpp:756   INFO| Logging to './log', mode: 'a', verbosity: 9
+2019-07-29 08:57:48.346 (   0.002s) [main thread     ]             loguru.cpp:472   INFO| atexit

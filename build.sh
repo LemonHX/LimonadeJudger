@@ -1,0 +1,1 @@
+clang++  main.cxx -lpthread -lseccomp -Wall -ldl -o ./build/judge.out
