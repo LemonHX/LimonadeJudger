@@ -1,3 +1,6 @@
+{-# LANGUAGE Strict #-}
+{-# OPTIONS_GHC -O2 #-}
 main::IO()
 main = do
-    putStrLn "fuck YOU"
+    readed <- map read . words <$> getLine
+    putStr $ show (readed!!0 + readed!!1)

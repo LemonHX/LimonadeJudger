@@ -5,7 +5,6 @@
 #include <sys/types.h>
 
 #define LOG_ERROR(error_code) LOG_F(ERROR, "Error: " #error_code);
-
 #define ERROR_EXIT(error_code)                                                 \
   {                                                                            \
     LOG_ERROR(error_code);                                                     \
