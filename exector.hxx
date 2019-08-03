@@ -1,25 +1,9 @@
 #pragma once
-#include <fstream>
-#include <iostream>
-
-#include <errno.h>
-#include <pthread.h>
-#include <sched.h>
-#include <signal.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <wait.h>
-
-#include <sys/resource.h>
-#include <sys/time.h>
-#include <sys/types.h>
-#include <sys/wait.h>
-
+#include "headers.hxx"
 #include "sub.hxx"
 #include "utils.hxx"
 
-auto exec_with_restriction(struct Config *_config, struct Result *_result) -> void {
+inline auto exec_with_restriction(struct Config *_config, struct Result *_result) -> void {
   // check whether current user is root
   uid_t uid = getuid();
   if (uid != 0) {
@@ -139,8 +123,9 @@ auto exec_with_restriction(struct Config *_config, struct Result *_result) -> vo
                    (std::istreambuf_iterator<char>()));
     std::string ut((std::istreambuf_iterator<char>(uni_out)),
                    (std::istreambuf_iterator<char>()));
-
+#ifdef PRINTRES
     printf("%s\n====\n%s\n", ot.c_str(), ut.c_str());
+#endif
     if (ot == ut) {
       _result->result = ACCEPTED;
     }

@@ -1,7 +1,5 @@
 #pragma once
-#include <iostream>
-#include <stdio.h>
-#include <sys/types.h>
+#include "headers.hxx"
 #define ARGS_MAX_NUMBER 256
 #define ENV_MAX_NUMBER 256
 #define UNLIMITED -1
@@ -60,7 +58,7 @@ public:
   /**
    * default config using unlimited resources and using genenral seccomp rule
    */
-  Config() {
+  inline Config() {
     max_cpu_time = UNLIMITED;
     max_real_time = UNLIMITED;
     max_memory = UNLIMITED;
@@ -91,7 +89,7 @@ public:
   int exit_code;
   int error;
   int result;
-  Result() {
+  inline Result() {
     result = WRONG_ANSWER;
     error = SUCCESS;
     cpu_time = real_time = signal = exit_code = memory = 0;

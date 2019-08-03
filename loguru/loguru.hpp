@@ -66,7 +66,7 @@ Website: www.ilikebigbits.com
 		LOG_F(INFO, "The magic number is %d", 42);
 	}
 */
-
+#pragma once
 #if defined(LOGURU_IMPLEMENTATION)
 	#warning "You are defining LOGURU_IMPLEMENTATION. This is for older versions of Loguru. You should now instead include loguru.cpp (or build it and link with it)"
 #endif

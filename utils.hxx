@@ -1,9 +1,5 @@
 #pragma once
-#include "loguru/loguru.cpp"
-#include "loguru/loguru.hpp"
-#include <stdio.h>
-#include <sys/types.h>
-
+#include "headers.hxx"
 #define LOG_ERROR(error_code) LOG_F(ERROR, "Error: " #error_code);
 #define ERROR_EXIT(error_code)                                                 \
   {                                                                            \
@@ -24,7 +20,6 @@ struct sub_precess_monitor {
   int timeout;
 };
 
-#include <string.h>
 
 #define SUB_ERROR_EXIT(error_code)                                             \
   {                                                                            \
@@ -41,7 +36,7 @@ struct sub_precess_monitor {
     exit(EXIT_FAILURE);                                                        \
   }
 
-void close_file(FILE *fp) {
+inline void close_file(FILE *fp) {
   if (fp != NULL) {
     fclose(fp);
   }

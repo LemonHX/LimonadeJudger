@@ -25,7 +25,7 @@ int _c_cpp_seccomp_rules(struct Config *_config, bool allow_write_file) {
     if (!ctx) {
         return LOAD_SECCOMP_FAILED;
     }
-    for (int i = 0; i < syscalls_whitelist_length; i++) {
+    for (unsigned int i = 0; i < syscalls_whitelist_length; i++) {
         if (seccomp_rule_add(ctx, SCMP_ACT_ALLOW, syscalls_whitelist[i], 0) != 0) {
             return LOAD_SECCOMP_FAILED;
         }

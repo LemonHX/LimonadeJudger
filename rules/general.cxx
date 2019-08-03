@@ -22,7 +22,7 @@ int general_seccomp_rules(struct Config *_config) {
     if (!ctx) {
         return LOAD_SECCOMP_FAILED;
     }
-    for (int i = 0; i < syscalls_blacklist_length; i++) {
+    for (unsigned int i = 0; i < syscalls_blacklist_length; i++) {
         if (seccomp_rule_add(ctx, SCMP_ACT_KILL, syscalls_blacklist[i], 0) != 0) {
             return LOAD_SECCOMP_FAILED;
         }
