@@ -1,5 +1,6 @@
 # LimonadeJudger
-https://github.com/lemonhx/LimonadeJudger/workflows/CI/badge.svg
+![GitHub Actions status | lemonhx/LimonadeJudger](https://github.com/lemonhx/LimonadeJudger/workflows/CI/badge.svg)
+
 build with clang recommented
 ```bash
 chmod +x build.sh && ./build.sh
